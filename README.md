@@ -27,7 +27,7 @@ N/A
 
 ## Links
 
-Deployed App - http://127.0.0.1:5500/homework/02-homework-portfolio/index.html#about
+Deployed App - https://adrian-g-c.github.io/02-homework/
 GitHub Repo - https://github.com/Adrian-G-C/02-homework
 
 ## Screenshot 
