@@ -25,6 +25,11 @@ Bootcamp course notes.
 
 N/A
 
+## Links
+
+Deployed App - https://adrian-g-c.github.io/02-homework/
+GitHub Repo - https://github.com/Adrian-G-C/02-homework
+
 ## Screenshot 
 
 ![Screenshot](./assets/images/Screenshot%202023-06-15%20at%2011.16.40%20PM%20(2).png)
